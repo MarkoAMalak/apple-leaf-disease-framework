@@ -1,0 +1,60 @@
+# =====================================================================
+#  NEVER commit datasets, images, or model weights to this repository.
+#  Only code, notebooks, small result summaries (CSV/PNG), and the
+#  paper/thesis PDFs belong here. The datasets are public and are
+#  downloaded/prepared locally by the scripts.
+# =====================================================================
+
+# ---- raw data / images (never upload) ----
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
+data/
+datasets/
+dataset/
+field_data/
+PlantVillage/
+PlantDoc/
+FGVC8/
+FGVC8_4class/
+PlantDoc_3class/
+external_test_plantdoc/
+_plantdoc_src/
+apple_det/
+clean_apple_dataset/
+
+# ---- model weights / checkpoints (never upload) ----
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.weights
+
+# ---- training run artifacts ----
+runs/
+runs_de*/
+wandb/
+
+# ---- python / env ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# =====================================================================
+#  Exceptions: keep the small curated result figures and summaries that
+#  document the paper's tables/figures (whitelisted below).
+# =====================================================================
+!results/**/*.png
+!results/**/*.csv
+!results/**/*.json
+!paper/**/*.png
+!thesis/**/*.png
