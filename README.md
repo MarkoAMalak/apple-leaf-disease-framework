@@ -1,5 +1,7 @@
 # Apple Leaf Disease Framework
 
+[![DOI](https://zenodo.org/badge/1298983948.svg)](https://doi.org/10.5281/zenodo.21336556)
+
 Leakage-free deep-learning framework for apple-leaf disease detection and classification, with honest cross-dataset evaluation (zero-shot vs. cross-validation), YOLOv11 detection, and a data-efficiency study showing that leakage-free pre-training cuts field-data needs.
 
 ## Overview
