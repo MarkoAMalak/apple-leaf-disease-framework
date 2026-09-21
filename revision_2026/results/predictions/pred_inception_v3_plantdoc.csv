@@ -1,0 +1,288 @@
+relpath,label,pred,conf,p_apple_scab,p_black_rot,p_cedar_apple_rust,p_healthy
+plantdoc_external/apple_scab/test_Apple Scab Leaf_1.jpg,0,3,0.5906,0.0190,0.2529,0.1375,0.5906
+plantdoc_external/apple_scab/test_Apple Scab Leaf_10.jpg,0,0,0.9999,0.9999,0.0000,0.0001,0.0000
+plantdoc_external/apple_scab/test_Apple Scab Leaf_2.jpg,0,2,0.8098,0.0123,0.1730,0.8098,0.0049
+plantdoc_external/apple_scab/test_Apple Scab Leaf_3.jpg,0,0,0.9997,0.9997,0.0002,0.0000,0.0000
+plantdoc_external/apple_scab/test_Apple Scab Leaf_4.jpg,0,0,0.9996,0.9996,0.0000,0.0000,0.0004
+plantdoc_external/apple_scab/test_Apple Scab Leaf_5.jpg,0,0,0.8726,0.8726,0.1215,0.0039,0.0020
+plantdoc_external/apple_scab/test_Apple Scab Leaf_6.jpg,0,3,0.9980,0.0020,0.0000,0.0000,0.9980
+plantdoc_external/apple_scab/test_Apple Scab Leaf_7.jpg,0,3,0.9519,0.0301,0.0095,0.0085,0.9519
+plantdoc_external/apple_scab/test_Apple Scab Leaf_8.jpg,0,0,0.7841,0.7841,0.1085,0.0363,0.0711
+plantdoc_external/apple_scab/test_Apple Scab Leaf_9.jpg,0,0,0.7518,0.7518,0.0206,0.1203,0.1074
+plantdoc_external/apple_scab/train_Apple Scab Leaf_1.jpg,0,3,0.9940,0.0060,0.0000,0.0000,0.9940
+plantdoc_external/apple_scab/train_Apple Scab Leaf_10.jpg,0,0,0.8387,0.8387,0.1434,0.0168,0.0011
+plantdoc_external/apple_scab/train_Apple Scab Leaf_11.jpg,0,0,0.9503,0.9503,0.0449,0.0043,0.0005
+plantdoc_external/apple_scab/train_Apple Scab Leaf_12.jpg,0,0,0.9999,0.9999,0.0000,0.0000,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_13.jpg,0,0,0.9729,0.9729,0.0135,0.0057,0.0078
+plantdoc_external/apple_scab/train_Apple Scab Leaf_14.jpg,0,2,0.3954,0.2280,0.3389,0.3954,0.0376
+plantdoc_external/apple_scab/train_Apple Scab Leaf_15.jpg,0,0,0.8602,0.8602,0.1200,0.0105,0.0093
+plantdoc_external/apple_scab/train_Apple Scab Leaf_16.jpg,0,0,0.9997,0.9997,0.0003,0.0000,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_17.jpg,0,0,0.7906,0.7906,0.2009,0.0020,0.0065
+plantdoc_external/apple_scab/train_Apple Scab Leaf_18.jpg,0,1,0.3336,0.0806,0.3336,0.2569,0.3289
+plantdoc_external/apple_scab/train_Apple Scab Leaf_19.jpg,0,1,0.9152,0.0813,0.9152,0.0018,0.0017
+plantdoc_external/apple_scab/train_Apple Scab Leaf_2.jpg,0,0,0.9884,0.9884,0.0086,0.0005,0.0025
+plantdoc_external/apple_scab/train_Apple Scab Leaf_20.jpg,0,1,0.8977,0.0997,0.8977,0.0017,0.0009
+plantdoc_external/apple_scab/train_Apple Scab Leaf_21.jpg,0,0,0.9605,0.9605,0.0033,0.0103,0.0259
+plantdoc_external/apple_scab/train_Apple Scab Leaf_22.jpg,0,0,0.8522,0.8522,0.0840,0.0561,0.0077
+plantdoc_external/apple_scab/train_Apple Scab Leaf_23.jpg,0,1,0.9683,0.0086,0.9683,0.0211,0.0020
+plantdoc_external/apple_scab/train_Apple Scab Leaf_24.jpg,0,0,0.9347,0.9347,0.0093,0.0170,0.0389
+plantdoc_external/apple_scab/train_Apple Scab Leaf_25.jpg,0,1,0.9808,0.0186,0.9808,0.0004,0.0002
+plantdoc_external/apple_scab/train_Apple Scab Leaf_26.jpg,0,0,0.9966,0.9966,0.0021,0.0011,0.0002
+plantdoc_external/apple_scab/train_Apple Scab Leaf_27.jpg,0,1,0.7271,0.2168,0.7271,0.0554,0.0007
+plantdoc_external/apple_scab/train_Apple Scab Leaf_28.jpg,0,3,0.7390,0.1664,0.0919,0.0027,0.7390
+plantdoc_external/apple_scab/train_Apple Scab Leaf_29.jpg,0,0,0.5397,0.5397,0.4554,0.0029,0.0020
+plantdoc_external/apple_scab/train_Apple Scab Leaf_3.jpg,0,0,0.9997,0.9997,0.0001,0.0001,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_30.jpg,0,0,0.6143,0.6143,0.3799,0.0035,0.0023
+plantdoc_external/apple_scab/train_Apple Scab Leaf_31.jpg,0,0,0.9861,0.9861,0.0006,0.0007,0.0126
+plantdoc_external/apple_scab/train_Apple Scab Leaf_32.jpg,0,0,0.9991,0.9991,0.0004,0.0003,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_33.jpg,0,0,0.6670,0.6670,0.3302,0.0028,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_34.jpg,0,0,0.9930,0.9930,0.0008,0.0017,0.0045
+plantdoc_external/apple_scab/train_Apple Scab Leaf_35.jpg,0,1,0.9922,0.0075,0.9922,0.0003,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_36.jpg,0,0,0.6493,0.6493,0.0146,0.0041,0.3320
+plantdoc_external/apple_scab/train_Apple Scab Leaf_37.jpg,0,0,0.9804,0.9804,0.0090,0.0077,0.0028
+plantdoc_external/apple_scab/train_Apple Scab Leaf_38.jpg,0,3,0.9999,0.0001,0.0000,0.0000,0.9999
+plantdoc_external/apple_scab/train_Apple Scab Leaf_39.jpg,0,0,0.9166,0.9166,0.0100,0.0724,0.0010
+plantdoc_external/apple_scab/train_Apple Scab Leaf_4.jpg,0,0,0.9997,0.9997,0.0003,0.0000,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_40.jpg,0,0,0.9995,0.9995,0.0002,0.0002,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_41.jpg,0,0,0.8508,0.8508,0.1105,0.0251,0.0136
+plantdoc_external/apple_scab/train_Apple Scab Leaf_42.jpg,0,0,0.9101,0.9101,0.0848,0.0036,0.0014
+plantdoc_external/apple_scab/train_Apple Scab Leaf_43.jpg,0,0,0.9176,0.9176,0.0465,0.0087,0.0273
+plantdoc_external/apple_scab/train_Apple Scab Leaf_44.jpg,0,0,0.9076,0.9076,0.0004,0.0017,0.0903
+plantdoc_external/apple_scab/train_Apple Scab Leaf_45.jpg,0,1,0.9999,0.0000,0.9999,0.0000,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_46.jpg,0,1,0.7046,0.2711,0.7046,0.0116,0.0127
+plantdoc_external/apple_scab/train_Apple Scab Leaf_47.jpg,0,0,0.7698,0.7698,0.0004,0.0014,0.2284
+plantdoc_external/apple_scab/train_Apple Scab Leaf_48.jpg,0,0,0.9976,0.9976,0.0018,0.0005,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_49.jpg,0,0,0.9105,0.9105,0.0471,0.0303,0.0121
+plantdoc_external/apple_scab/train_Apple Scab Leaf_5.jpg,0,0,0.9347,0.9347,0.0081,0.0030,0.0542
+plantdoc_external/apple_scab/train_Apple Scab Leaf_50.jpg,0,0,0.7409,0.7409,0.2429,0.0155,0.0008
+plantdoc_external/apple_scab/train_Apple Scab Leaf_51.jpg,0,0,0.9833,0.9833,0.0011,0.0147,0.0009
+plantdoc_external/apple_scab/train_Apple Scab Leaf_52.jpg,0,1,0.9749,0.0108,0.9749,0.0000,0.0143
+plantdoc_external/apple_scab/train_Apple Scab Leaf_53.jpg,0,1,0.7800,0.1968,0.7800,0.0162,0.0070
+plantdoc_external/apple_scab/train_Apple Scab Leaf_54.jpg,0,0,0.9667,0.9667,0.0055,0.0105,0.0173
+plantdoc_external/apple_scab/train_Apple Scab Leaf_55.jpg,0,0,0.6440,0.6440,0.3075,0.0470,0.0015
+plantdoc_external/apple_scab/train_Apple Scab Leaf_56.jpg,0,3,0.9734,0.0240,0.0014,0.0012,0.9734
+plantdoc_external/apple_scab/train_Apple Scab Leaf_57.jpg,0,0,0.9068,0.9068,0.0068,0.0079,0.0785
+plantdoc_external/apple_scab/train_Apple Scab Leaf_58.jpg,0,0,0.7087,0.7087,0.1664,0.1238,0.0011
+plantdoc_external/apple_scab/train_Apple Scab Leaf_59.jpg,0,0,0.9910,0.9910,0.0040,0.0039,0.0011
+plantdoc_external/apple_scab/train_Apple Scab Leaf_6.jpg,0,0,0.9966,0.9966,0.0031,0.0002,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_60.jpg,0,3,0.5731,0.3874,0.0208,0.0186,0.5731
+plantdoc_external/apple_scab/train_Apple Scab Leaf_61.jpg,0,0,0.8493,0.8493,0.1340,0.0073,0.0094
+plantdoc_external/apple_scab/train_Apple Scab Leaf_62.jpg,0,0,0.7052,0.7052,0.0152,0.1587,0.1209
+plantdoc_external/apple_scab/train_Apple Scab Leaf_63.jpg,0,0,0.8773,0.8773,0.0001,0.0005,0.1220
+plantdoc_external/apple_scab/train_Apple Scab Leaf_64.jpg,0,1,0.9608,0.0374,0.9608,0.0004,0.0014
+plantdoc_external/apple_scab/train_Apple Scab Leaf_65.jpg,0,0,0.4947,0.4947,0.4378,0.0238,0.0437
+plantdoc_external/apple_scab/train_Apple Scab Leaf_66.jpg,0,3,0.8549,0.0925,0.0504,0.0022,0.8549
+plantdoc_external/apple_scab/train_Apple Scab Leaf_67.jpg,0,0,0.9999,0.9999,0.0001,0.0000,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_68.jpg,0,3,0.9848,0.0152,0.0000,0.0000,0.9848
+plantdoc_external/apple_scab/train_Apple Scab Leaf_69.jpg,0,2,0.8300,0.1560,0.0104,0.8300,0.0036
+plantdoc_external/apple_scab/train_Apple Scab Leaf_7.jpg,0,0,0.9983,0.9983,0.0005,0.0002,0.0011
+plantdoc_external/apple_scab/train_Apple Scab Leaf_70.jpg,0,0,0.9357,0.9357,0.0005,0.0000,0.0638
+plantdoc_external/apple_scab/train_Apple Scab Leaf_71.jpg,0,0,0.9974,0.9974,0.0006,0.0001,0.0019
+plantdoc_external/apple_scab/train_Apple Scab Leaf_72.jpg,0,0,0.9995,0.9995,0.0004,0.0001,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_73.jpg,0,0,0.9987,0.9987,0.0008,0.0003,0.0002
+plantdoc_external/apple_scab/train_Apple Scab Leaf_74.jpg,0,1,0.9553,0.0443,0.9553,0.0003,0.0002
+plantdoc_external/apple_scab/train_Apple Scab Leaf_75.jpg,0,1,0.9305,0.0675,0.9305,0.0009,0.0011
+plantdoc_external/apple_scab/train_Apple Scab Leaf_76.jpg,0,0,0.9604,0.9604,0.0216,0.0073,0.0107
+plantdoc_external/apple_scab/train_Apple Scab Leaf_77.jpg,0,0,0.9656,0.9656,0.0337,0.0007,0.0000
+plantdoc_external/apple_scab/train_Apple Scab Leaf_78.jpg,0,0,0.9989,0.9989,0.0009,0.0002,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_79.jpg,0,0,0.9994,0.9994,0.0002,0.0002,0.0002
+plantdoc_external/apple_scab/train_Apple Scab Leaf_8.jpg,0,3,0.4802,0.0701,0.3497,0.1000,0.4802
+plantdoc_external/apple_scab/train_Apple Scab Leaf_80.jpg,0,0,0.9984,0.9984,0.0012,0.0004,0.0001
+plantdoc_external/apple_scab/train_Apple Scab Leaf_81.jpg,0,0,0.9888,0.9888,0.0017,0.0053,0.0041
+plantdoc_external/apple_scab/train_Apple Scab Leaf_82.jpg,0,1,0.5009,0.4950,0.5009,0.0008,0.0033
+plantdoc_external/apple_scab/train_Apple Scab Leaf_83.jpg,0,1,0.4636,0.1758,0.4636,0.3496,0.0110
+plantdoc_external/apple_scab/train_Apple Scab Leaf_9.jpg,0,0,0.7418,0.7418,0.1791,0.0011,0.0780
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_1.jpg,2,1,0.8224,0.1384,0.8224,0.0036,0.0356
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_10.jpg,2,2,0.9544,0.0301,0.0153,0.9544,0.0001
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_2.jpg,2,1,0.5727,0.4190,0.5727,0.0075,0.0008
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_3.jpg,2,1,0.9984,0.0004,0.9984,0.0009,0.0003
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_4.jpg,2,1,0.7651,0.1679,0.7651,0.0139,0.0530
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_5.jpg,2,2,0.7499,0.0255,0.2129,0.7499,0.0118
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_6.jpg,2,1,0.7875,0.1893,0.7875,0.0219,0.0013
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_7.jpg,2,0,0.9725,0.9725,0.0174,0.0091,0.0011
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_8.jpg,2,1,0.9378,0.0168,0.9378,0.0453,0.0002
+plantdoc_external/cedar_apple_rust/test_Apple rust leaf_9.jpg,2,2,0.9274,0.0396,0.0282,0.9274,0.0048
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_1.jpg,2,0,0.7479,0.7479,0.0264,0.2228,0.0030
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_10.jpg,2,0,0.6335,0.6335,0.3567,0.0089,0.0010
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_11.jpg,2,1,0.8892,0.0741,0.8892,0.0349,0.0017
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_12.jpg,2,2,0.6690,0.1344,0.1532,0.6690,0.0433
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_13.jpg,2,1,0.8390,0.0019,0.8390,0.0700,0.0891
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_14.jpg,2,2,0.8236,0.1757,0.0004,0.8236,0.0003
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_15.jpg,2,2,0.7316,0.2460,0.0107,0.7316,0.0117
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_16.jpg,2,1,0.9949,0.0050,0.9949,0.0001,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_17.jpg,2,2,0.7051,0.0959,0.1949,0.7051,0.0041
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_18.jpg,2,0,0.9690,0.9690,0.0075,0.0228,0.0007
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_19.jpg,2,2,0.8994,0.0930,0.0076,0.8994,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_2.jpg,2,2,0.9164,0.0556,0.0115,0.9164,0.0165
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_20.jpg,2,1,0.5650,0.0424,0.5650,0.3902,0.0024
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_21.jpg,2,0,0.9920,0.9920,0.0010,0.0014,0.0056
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_22.jpg,2,2,0.9641,0.0255,0.0099,0.9641,0.0005
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_23.jpg,2,1,0.9296,0.0243,0.9296,0.0186,0.0275
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_24.jpg,2,1,0.9917,0.0075,0.9917,0.0007,0.0002
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_25.jpg,2,1,0.8697,0.1031,0.8697,0.0127,0.0145
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_26.jpg,2,0,0.7152,0.7152,0.2801,0.0017,0.0031
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_27.jpg,2,0,0.6110,0.6110,0.3772,0.0056,0.0062
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_28.jpg,2,0,0.4007,0.4007,0.3978,0.1681,0.0334
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_29.jpg,2,0,0.8645,0.8645,0.0369,0.0954,0.0032
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_3.jpg,2,1,0.6998,0.1811,0.6998,0.1157,0.0033
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_30.jpg,2,1,0.8726,0.0953,0.8726,0.0274,0.0047
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_31.jpg,2,2,0.6618,0.2183,0.1157,0.6618,0.0042
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_32.jpg,2,1,0.9901,0.0063,0.9901,0.0035,0.0002
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_33.jpg,2,1,0.9985,0.0002,0.9985,0.0008,0.0006
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_34.jpg,2,2,0.3782,0.2407,0.3669,0.3782,0.0142
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_35.jpg,2,1,0.9006,0.0297,0.9006,0.0682,0.0016
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_36_1.jpg,2,1,0.9216,0.0223,0.9216,0.0529,0.0032
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_36_2.jpg,2,0,0.9767,0.9767,0.0229,0.0002,0.0002
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_36_3.jpg,2,0,0.9235,0.9235,0.0075,0.0678,0.0012
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_37.jpg,2,1,0.4834,0.4184,0.4834,0.0979,0.0003
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_38.jpg,2,1,0.9103,0.0835,0.9103,0.0061,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_39_1.jpg,2,0,0.9248,0.9248,0.0726,0.0021,0.0004
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_39_2.jpg,2,1,0.9525,0.0461,0.9525,0.0011,0.0004
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_4.jpg,2,2,0.6297,0.0119,0.3400,0.6297,0.0184
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_40.jpg,2,2,0.9645,0.0125,0.0229,0.9645,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_41.jpg,2,2,0.9585,0.0332,0.0052,0.9585,0.0031
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_42_1.jpg,2,0,0.9880,0.9880,0.0119,0.0001,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_42_2.jpg,2,0,0.8866,0.8866,0.0697,0.0430,0.0007
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_42_3.jpg,2,0,0.9686,0.9686,0.0095,0.0151,0.0068
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_42_4.jpg,2,1,0.5682,0.4069,0.5682,0.0233,0.0016
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_43.jpg,2,1,0.7876,0.2061,0.7876,0.0025,0.0039
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_44.jpg,2,0,0.7167,0.7167,0.2801,0.0019,0.0013
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_45.jpg,2,0,0.6002,0.6002,0.1821,0.1924,0.0252
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_46.jpg,2,2,0.9536,0.0009,0.0449,0.9536,0.0005
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_47_1.jpg,2,2,0.8767,0.1231,0.0001,0.8767,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_47_2.jpg,2,0,0.8737,0.8737,0.0769,0.0482,0.0012
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_47_3.jpg,2,0,0.4990,0.4990,0.4182,0.0744,0.0084
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_47_4.jpg,2,0,0.8389,0.8389,0.0823,0.0719,0.0069
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_47_5.jpg,2,0,0.9212,0.9212,0.0044,0.0727,0.0017
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_48.jpg,2,2,0.9519,0.0082,0.0388,0.9519,0.0011
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_49.jpg,2,1,0.7124,0.2445,0.7124,0.0381,0.0050
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_5.jpg,2,1,0.9906,0.0050,0.9906,0.0044,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_50.jpg,2,1,0.6738,0.3183,0.6738,0.0075,0.0003
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_51.jpg,2,0,0.6214,0.6214,0.3689,0.0080,0.0018
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_52.jpg,2,3,0.9165,0.0825,0.0001,0.0008,0.9165
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_53.jpg,2,0,0.8814,0.8814,0.0649,0.0408,0.0128
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_54.jpg,2,0,0.8769,0.8769,0.0027,0.0048,0.1156
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_55_1.jpg,2,1,0.3910,0.2725,0.3910,0.3348,0.0017
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_55_2.jpg,2,1,0.5413,0.4078,0.5413,0.0506,0.0004
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_56.jpg,2,1,0.5120,0.0441,0.5120,0.4427,0.0013
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_57_1.jpg,2,1,0.7232,0.2163,0.7232,0.0597,0.0008
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_57_2.jpg,2,2,0.5848,0.0506,0.3613,0.5848,0.0032
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_58_1.jpg,2,1,0.9893,0.0093,0.9893,0.0014,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_58_2.jpg,2,1,0.7660,0.2331,0.7660,0.0007,0.0002
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_59.jpg,2,0,0.6465,0.6465,0.2400,0.1078,0.0057
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_6.jpg,2,2,0.6925,0.3019,0.0006,0.6925,0.0050
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_60.jpg,2,0,0.9910,0.9910,0.0064,0.0025,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_61.jpg,2,1,0.9937,0.0058,0.9937,0.0004,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_62.jpg,2,1,0.9550,0.0409,0.9550,0.0040,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_63.jpg,2,1,0.9684,0.0292,0.9684,0.0022,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_64.jpg,2,1,0.7572,0.2369,0.7572,0.0054,0.0006
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_65.jpg,2,0,0.7213,0.7213,0.0019,0.0020,0.2748
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_66_1.jpg,2,1,0.8644,0.1324,0.8644,0.0017,0.0015
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_66_2.jpg,2,1,0.7899,0.1945,0.7899,0.0037,0.0119
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_66_3.jpg,2,1,0.5871,0.4115,0.5871,0.0010,0.0004
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_66_4.jpg,2,1,0.8586,0.1399,0.8586,0.0003,0.0013
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_67.jpg,2,1,0.6773,0.2890,0.6773,0.0303,0.0033
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_68.jpg,2,1,0.8316,0.1491,0.8316,0.0109,0.0084
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_69.jpg,2,3,0.9977,0.0022,0.0001,0.0000,0.9977
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_7.jpg,2,3,0.5536,0.1056,0.1167,0.2241,0.5536
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_70.jpg,2,0,0.9717,0.9717,0.0261,0.0013,0.0008
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_71_1.jpg,2,1,0.9291,0.0485,0.9291,0.0195,0.0029
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_71_2.jpg,2,0,0.5882,0.5882,0.4107,0.0010,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_72.jpg,2,1,0.9487,0.0372,0.9487,0.0125,0.0016
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_73.jpg,2,3,0.5633,0.3983,0.0095,0.0290,0.5633
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_74.jpg,2,2,0.7029,0.0016,0.2953,0.7029,0.0002
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_75.jpg,2,1,0.7945,0.0482,0.7945,0.1555,0.0019
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_76.jpg,2,2,0.5450,0.2230,0.2191,0.5450,0.0129
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_77.jpg,2,1,0.9311,0.0354,0.9311,0.0212,0.0122
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_78.jpg,2,0,0.8947,0.8947,0.1050,0.0002,0.0000
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_79.jpg,2,0,0.5620,0.5620,0.1751,0.2608,0.0020
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_8.jpg,2,1,0.9970,0.0024,0.9970,0.0005,0.0001
+plantdoc_external/cedar_apple_rust/train_Apple rust leaf_9.jpg,2,3,0.4576,0.1928,0.1916,0.1580,0.4576
+plantdoc_external/healthy/test_Apple leaf_1.jpg,3,3,0.9841,0.0158,0.0000,0.0000,0.9841
+plantdoc_external/healthy/test_Apple leaf_2.jpg,3,3,0.8383,0.0721,0.0879,0.0017,0.8383
+plantdoc_external/healthy/test_Apple leaf_3.jpg,3,1,0.8653,0.1279,0.8653,0.0031,0.0038
+plantdoc_external/healthy/test_Apple leaf_4.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/test_Apple leaf_5.jpg,3,3,0.9833,0.0051,0.0114,0.0002,0.9833
+plantdoc_external/healthy/test_Apple leaf_6.jpg,3,1,0.6671,0.0082,0.6671,0.0052,0.3195
+plantdoc_external/healthy/test_Apple leaf_7.jpg,3,3,0.9816,0.0012,0.0157,0.0016,0.9816
+plantdoc_external/healthy/test_Apple leaf_8.jpg,3,2,0.6329,0.0849,0.1488,0.6329,0.1334
+plantdoc_external/healthy/test_Apple leaf_9.jpg,3,3,0.9999,0.0001,0.0000,0.0000,0.9999
+plantdoc_external/healthy/train_Apple leaf_1.jpg,3,0,0.7171,0.7171,0.1605,0.0087,0.1137
+plantdoc_external/healthy/train_Apple leaf_10.jpg,3,3,0.9979,0.0004,0.0017,0.0000,0.9979
+plantdoc_external/healthy/train_Apple leaf_11.jpg,3,0,0.6025,0.6025,0.3730,0.0189,0.0056
+plantdoc_external/healthy/train_Apple leaf_12.jpg,3,3,0.9992,0.0007,0.0001,0.0000,0.9992
+plantdoc_external/healthy/train_Apple leaf_13.jpg,3,0,0.4995,0.4995,0.4434,0.0008,0.0563
+plantdoc_external/healthy/train_Apple leaf_14.jpg,3,3,0.9992,0.0006,0.0002,0.0000,0.9992
+plantdoc_external/healthy/train_Apple leaf_15.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/train_Apple leaf_16.jpg,3,3,0.9845,0.0018,0.0134,0.0003,0.9845
+plantdoc_external/healthy/train_Apple leaf_17.jpg,3,1,0.8599,0.1012,0.8599,0.0077,0.0312
+plantdoc_external/healthy/train_Apple leaf_18.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/train_Apple leaf_19.jpg,3,0,0.9756,0.9756,0.0152,0.0018,0.0074
+plantdoc_external/healthy/train_Apple leaf_2.jpg,3,1,0.5059,0.0200,0.5059,0.0263,0.4478
+plantdoc_external/healthy/train_Apple leaf_20.jpg,3,3,0.9197,0.0699,0.0070,0.0035,0.9197
+plantdoc_external/healthy/train_Apple leaf_21.jpg,3,3,0.9880,0.0007,0.0099,0.0014,0.9880
+plantdoc_external/healthy/train_Apple leaf_22.jpg,3,3,0.9598,0.0062,0.0328,0.0011,0.9598
+plantdoc_external/healthy/train_Apple leaf_23.jpg,3,0,0.9186,0.9186,0.0344,0.0014,0.0455
+plantdoc_external/healthy/train_Apple leaf_24.jpg,3,3,0.9994,0.0000,0.0005,0.0000,0.9994
+plantdoc_external/healthy/train_Apple leaf_25.jpg,3,0,0.3613,0.3613,0.3479,0.0464,0.2444
+plantdoc_external/healthy/train_Apple leaf_26.jpg,3,0,0.7965,0.7965,0.1535,0.0097,0.0403
+plantdoc_external/healthy/train_Apple leaf_27.jpg,3,3,0.9994,0.0003,0.0003,0.0000,0.9994
+plantdoc_external/healthy/train_Apple leaf_28.jpg,3,0,0.9212,0.9212,0.0039,0.0016,0.0734
+plantdoc_external/healthy/train_Apple leaf_29.jpg,3,3,0.9941,0.0005,0.0054,0.0000,0.9941
+plantdoc_external/healthy/train_Apple leaf_3.jpg,3,0,0.7779,0.7779,0.0548,0.0038,0.1635
+plantdoc_external/healthy/train_Apple leaf_30.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/train_Apple leaf_31.jpg,3,0,0.3534,0.3534,0.1695,0.1338,0.3434
+plantdoc_external/healthy/train_Apple leaf_32.jpg,3,3,0.9825,0.0067,0.0082,0.0026,0.9825
+plantdoc_external/healthy/train_Apple leaf_33.jpg,3,3,0.5458,0.0875,0.3371,0.0297,0.5458
+plantdoc_external/healthy/train_Apple leaf_34.jpg,3,3,0.9560,0.0264,0.0134,0.0041,0.9560
+plantdoc_external/healthy/train_Apple leaf_35.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/train_Apple leaf_36.jpg,3,1,0.4428,0.1070,0.4428,0.0340,0.4162
+plantdoc_external/healthy/train_Apple leaf_37.jpg,3,3,0.9995,0.0003,0.0002,0.0000,0.9995
+plantdoc_external/healthy/train_Apple leaf_39.jpg,3,3,0.8626,0.0305,0.0426,0.0642,0.8626
+plantdoc_external/healthy/train_Apple leaf_4.jpg,3,3,0.9805,0.0130,0.0060,0.0005,0.9805
+plantdoc_external/healthy/train_Apple leaf_40.jpg,3,1,0.7928,0.1681,0.7928,0.0157,0.0234
+plantdoc_external/healthy/train_Apple leaf_41.jpg,3,3,0.5887,0.0032,0.3005,0.1076,0.5887
+plantdoc_external/healthy/train_Apple leaf_42.jpg,3,0,0.9224,0.9224,0.0586,0.0025,0.0165
+plantdoc_external/healthy/train_Apple leaf_43.jpg,3,3,0.5876,0.1017,0.3028,0.0079,0.5876
+plantdoc_external/healthy/train_Apple leaf_44.jpg,3,3,0.9990,0.0009,0.0000,0.0000,0.9990
+plantdoc_external/healthy/train_Apple leaf_45.jpg,3,1,0.9638,0.0232,0.9638,0.0062,0.0068
+plantdoc_external/healthy/train_Apple leaf_46.jpg,3,0,0.8923,0.8923,0.0539,0.0145,0.0393
+plantdoc_external/healthy/train_Apple leaf_47.jpg,3,3,0.9946,0.0042,0.0008,0.0004,0.9946
+plantdoc_external/healthy/train_Apple leaf_48.jpg,3,3,0.9962,0.0002,0.0036,0.0000,0.9962
+plantdoc_external/healthy/train_Apple leaf_49.jpg,3,2,0.3846,0.1313,0.1072,0.3846,0.3770
+plantdoc_external/healthy/train_Apple leaf_5.jpg,3,3,0.8034,0.0209,0.1240,0.0517,0.8034
+plantdoc_external/healthy/train_Apple leaf_50.jpg,3,2,0.5746,0.0840,0.0809,0.5746,0.2605
+plantdoc_external/healthy/train_Apple leaf_51.jpg,3,3,0.9994,0.0000,0.0006,0.0000,0.9994
+plantdoc_external/healthy/train_Apple leaf_53.jpg,3,2,0.5375,0.0670,0.2488,0.5375,0.1467
+plantdoc_external/healthy/train_Apple leaf_54.jpg,3,3,0.9925,0.0043,0.0030,0.0001,0.9925
+plantdoc_external/healthy/train_Apple leaf_55.jpg,3,3,0.9539,0.0018,0.0437,0.0006,0.9539
+plantdoc_external/healthy/train_Apple leaf_56.jpg,3,3,0.9932,0.0052,0.0016,0.0000,0.9932
+plantdoc_external/healthy/train_Apple leaf_57.jpg,3,3,0.9990,0.0000,0.0010,0.0000,0.9990
+plantdoc_external/healthy/train_Apple leaf_58.jpg,3,1,0.6317,0.3428,0.6317,0.0114,0.0141
+plantdoc_external/healthy/train_Apple leaf_59.jpg,3,1,0.4929,0.4853,0.4929,0.0188,0.0030
+plantdoc_external/healthy/train_Apple leaf_6.jpg,3,3,0.9998,0.0001,0.0001,0.0000,0.9998
+plantdoc_external/healthy/train_Apple leaf_60.jpg,3,3,1.0000,0.0000,0.0000,0.0000,1.0000
+plantdoc_external/healthy/train_Apple leaf_61.jpg,3,0,0.4005,0.4005,0.1577,0.3002,0.1416
+plantdoc_external/healthy/train_Apple leaf_62.jpg,3,3,0.9996,0.0000,0.0004,0.0000,0.9996
+plantdoc_external/healthy/train_Apple leaf_63.jpg,3,3,0.9373,0.0311,0.0203,0.0113,0.9373
+plantdoc_external/healthy/train_Apple leaf_64.jpg,3,3,0.8917,0.0769,0.0286,0.0028,0.8917
+plantdoc_external/healthy/train_Apple leaf_65.jpg,3,3,0.9976,0.0021,0.0003,0.0000,0.9976
+plantdoc_external/healthy/train_Apple leaf_66.jpg,3,2,0.5395,0.1104,0.1037,0.5395,0.2464
+plantdoc_external/healthy/train_Apple leaf_68.jpg,3,0,0.6481,0.6481,0.0194,0.0673,0.2652
+plantdoc_external/healthy/train_Apple leaf_69.jpg,3,3,0.9807,0.0000,0.0192,0.0000,0.9807
+plantdoc_external/healthy/train_Apple leaf_7.jpg,3,3,0.9947,0.0016,0.0034,0.0003,0.9947
+plantdoc_external/healthy/train_Apple leaf_70.jpg,3,3,0.9974,0.0005,0.0021,0.0000,0.9974
+plantdoc_external/healthy/train_Apple leaf_71.jpg,3,1,0.4389,0.3501,0.4389,0.0277,0.1833
+plantdoc_external/healthy/train_Apple leaf_72.jpg,3,3,0.8737,0.0015,0.1177,0.0072,0.8737
+plantdoc_external/healthy/train_Apple leaf_73.jpg,3,3,0.6400,0.0044,0.3199,0.0356,0.6400
+plantdoc_external/healthy/train_Apple leaf_74_1.jpg,3,3,0.2982,0.2934,0.1976,0.2108,0.2982
+plantdoc_external/healthy/train_Apple leaf_75.jpg,3,3,0.9303,0.0087,0.0465,0.0146,0.9303
+plantdoc_external/healthy/train_Apple leaf_76.jpg,3,3,0.6807,0.1376,0.0960,0.0857,0.6807
+plantdoc_external/healthy/train_Apple leaf_77.jpg,3,3,0.9998,0.0001,0.0002,0.0000,0.9998
+plantdoc_external/healthy/train_Apple leaf_78.jpg,3,3,0.9809,0.0069,0.0114,0.0009,0.9809
+plantdoc_external/healthy/train_Apple leaf_79.jpg,3,3,0.9964,0.0001,0.0035,0.0000,0.9964
+plantdoc_external/healthy/train_Apple leaf_8.jpg,3,3,0.9335,0.0494,0.0065,0.0106,0.9335
+plantdoc_external/healthy/train_Apple leaf_80.jpg,3,3,0.9423,0.0246,0.0169,0.0162,0.9423
+plantdoc_external/healthy/train_Apple leaf_81.jpg,3,0,0.7224,0.7224,0.0038,0.0007,0.2731
+plantdoc_external/healthy/train_Apple leaf_82.jpg,3,0,0.4939,0.4939,0.4123,0.0067,0.0871
+plantdoc_external/healthy/train_Apple leaf_9.jpg,3,3,0.9985,0.0008,0.0007,0.0000,0.9985
