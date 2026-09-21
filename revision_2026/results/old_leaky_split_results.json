@@ -1,0 +1,20 @@
+[
+  {
+    "seed": 1,
+    "accuracy": 0.9993,
+    "f1_macro": 0.9993,
+    "leaf_overlap_pct": 59.7
+  },
+  {
+    "seed": 0,
+    "accuracy": 0.9993211133740665,
+    "f1_macro": 0.9993446739946372,
+    "leaf_overlap_pct": 60.42090970807875
+  },
+  {
+    "seed": 2,
+    "accuracy": 1.0,
+    "f1_macro": 1.0,
+    "leaf_overlap_pct": 58.52002715546504
+  }
+]

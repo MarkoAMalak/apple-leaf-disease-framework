@@ -1,0 +1,987 @@
+[
+  {
+    "backbone": "resnet50",
+    "dataset": "pv_test",
+    "accuracy": 0.9979591836734694,
+    "precision_macro": 0.9973958333333334,
+    "recall_macro": 0.9990157480314961,
+    "f1_macro": 0.998198002829497,
+    "restricted_accuracy": 0.9979591836734694,
+    "restricted_precision_macro": 0.9973958333333334,
+    "restricted_recall_macro": 0.9990157480314961,
+    "restricted_f1_macro": 0.998198002829497,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.9895833333333334,
+        "recall": 1.0,
+        "f1": 0.9947643979057591,
+        "support": 95
+      },
+      "black_rot": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 94
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 47
+      },
+      "healthy": {
+        "precision": 1.0,
+        "recall": 0.9960629921259843,
+        "f1": 0.9980276134122288,
+        "support": 254
+      }
+    },
+    "confusion": [
+      [
+        95,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        94,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        47,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        253
+      ]
+    ],
+    "roc_auc_ovr": 0.9999958294408114,
+    "n": 490
+  },
+  {
+    "backbone": "resnet50",
+    "dataset": "plantdoc",
+    "accuracy": 0.6236933797909407,
+    "precision_macro": 0.7429564978523624,
+    "recall_macro": 0.623937180693115,
+    "f1_macro": 0.6758433209688087,
+    "restricted_accuracy": 0.6898954703832753,
+    "restricted_precision_macro": 0.7019127984709099,
+    "restricted_recall_macro": 0.6869662848816835,
+    "restricted_f1_macro": 0.6914173623482051,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.574468085106383,
+        "recall": 0.5806451612903226,
+        "f1": 0.5775401069518716,
+        "support": 93
+      },
+      "black_rot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "cedar_apple_rust": {
+        "precision": 0.8375,
+        "recall": 0.6320754716981132,
+        "f1": 0.7204301075268816,
+        "support": 106
+      },
+      "healthy": {
+        "precision": 0.8169014084507042,
+        "recall": 0.6590909090909091,
+        "f1": 0.729559748427673,
+        "support": 88
+      }
+    },
+    "confusion": [
+      [
+        54,
+        21,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        20,
+        15,
+        67,
+        4
+      ],
+      [
+        20,
+        6,
+        4,
+        58
+      ]
+    ],
+    "n": 287
+  },
+  {
+    "backbone": "resnet50",
+    "dataset": "fgvc8",
+    "accuracy": 0.3335714285714286,
+    "precision_macro": 0.39567263016983567,
+    "recall_macro": 0.3335714285714286,
+    "f1_macro": 0.2710538055219073,
+    "restricted_accuracy": 0.3335714285714286,
+    "restricted_precision_macro": 0.39567263016983567,
+    "restricted_recall_macro": 0.3335714285714286,
+    "restricted_f1_macro": 0.2710538055219073,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.2963152507676561,
+        "recall": 0.8271428571428572,
+        "f1": 0.43632253202712884,
+        "support": 700
+      },
+      "black_rot": {
+        "precision": 0.30184804928131415,
+        "recall": 0.21,
+        "f1": 0.2476832350463353,
+        "support": 700
+      },
+      "cedar_apple_rust": {
+        "precision": 0.5845272206303725,
+        "recall": 0.2914285714285714,
+        "f1": 0.3889418493803622,
+        "support": 700
+      },
+      "healthy": {
+        "precision": 0.4,
+        "recall": 0.005714285714285714,
+        "f1": 0.011267605633802818,
+        "support": 700
+      }
+    },
+    "confusion": [
+      [
+        579,
+        90,
+        30,
+        1
+      ],
+      [
+        461,
+        147,
+        91,
+        1
+      ],
+      [
+        355,
+        137,
+        204,
+        4
+      ],
+      [
+        559,
+        113,
+        24,
+        4
+      ]
+    ],
+    "roc_auc_ovr": 0.6502487244897959,
+    "n": 2800
+  },
+  {
+    "backbone": "vgg16",
+    "dataset": "pv_test",
+    "accuracy": 0.9979591836734694,
+    "precision_macro": 0.9973684210526316,
+    "recall_macro": 0.9990157480314961,
+    "f1_macro": 0.9981841520303059,
+    "restricted_accuracy": 0.9979591836734694,
+    "restricted_precision_macro": 0.9973684210526316,
+    "restricted_recall_macro": 0.9990157480314961,
+    "restricted_f1_macro": 0.9981841520303059,
+    "per_class": {
+      "apple_scab": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 95
+      },
+      "black_rot": {
+        "precision": 0.9894736842105263,
+        "recall": 1.0,
+        "f1": 0.9947089947089947,
+        "support": 94
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 47
+      },
+      "healthy": {
+        "precision": 1.0,
+        "recall": 0.9960629921259843,
+        "f1": 0.9980276134122288,
+        "support": 254
+      }
+    },
+    "confusion": [
+      [
+        95,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        94,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        47,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        253
+      ]
+    ],
+    "roc_auc_ovr": 1.0,
+    "n": 490
+  },
+  {
+    "backbone": "vgg16",
+    "dataset": "plantdoc",
+    "accuracy": 0.43902439024390244,
+    "precision_macro": 0.734752001373597,
+    "recall_macro": 0.446529353178775,
+    "f1_macro": 0.47011169374153416,
+    "restricted_accuracy": 0.5644599303135889,
+    "restricted_precision_macro": 0.7488983653162758,
+    "restricted_recall_macro": 0.5654513792827852,
+    "restricted_f1_macro": 0.5541164362794709,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.4311377245508982,
+        "recall": 0.7741935483870968,
+        "f1": 0.5538461538461539,
+        "support": 93
+      },
+      "black_rot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "cedar_apple_rust": {
+        "precision": 0.8064516129032258,
+        "recall": 0.2358490566037736,
+        "f1": 0.36496350364963503,
+        "support": 106
+      },
+      "healthy": {
+        "precision": 0.9666666666666667,
+        "recall": 0.32954545454545453,
+        "f1": 0.4915254237288136,
+        "support": 88
+      }
+    },
+    "confusion": [
+      [
+        72,
+        15,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        45,
+        35,
+        25,
+        1
+      ],
+      [
+        50,
+        9,
+        0,
+        29
+      ]
+    ],
+    "n": 287
+  },
+  {
+    "backbone": "vgg16",
+    "dataset": "fgvc8",
+    "accuracy": 0.32392857142857145,
+    "precision_macro": 0.37758076295214366,
+    "recall_macro": 0.3239285714285714,
+    "f1_macro": 0.2150561720724556,
+    "restricted_accuracy": 0.32392857142857145,
+    "restricted_precision_macro": 0.37758076295214366,
+    "restricted_recall_macro": 0.3239285714285714,
+    "restricted_f1_macro": 0.2150561720724556,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.29867256637168144,
+        "recall": 0.9642857142857143,
+        "f1": 0.45608108108108103,
+        "support": 700
+      },
+      "black_rot": {
+        "precision": 0.4116504854368932,
+        "recall": 0.3028571428571429,
+        "f1": 0.34897119341563787,
+        "support": 700
+      },
+      "cedar_apple_rust": {
+        "precision": 0.8,
+        "recall": 0.02857142857142857,
+        "f1": 0.05517241379310345,
+        "support": 700
+      },
+      "healthy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 700
+      }
+    },
+    "confusion": [
+      [
+        675,
+        25,
+        0,
+        0
+      ],
+      [
+        483,
+        212,
+        5,
+        0
+      ],
+      [
+        439,
+        241,
+        20,
+        0
+      ],
+      [
+        663,
+        37,
+        0,
+        0
+      ]
+    ],
+    "roc_auc_ovr": 0.7373130952380953,
+    "n": 2800
+  },
+  {
+    "backbone": "densenet121",
+    "dataset": "pv_test",
+    "accuracy": 0.9959183673469387,
+    "precision_macro": 0.998046875,
+    "recall_macro": 0.9947368421052631,
+    "f1_macro": 0.9963600333750522,
+    "restricted_accuracy": 0.9959183673469387,
+    "restricted_precision_macro": 0.998046875,
+    "restricted_recall_macro": 0.9947368421052631,
+    "restricted_f1_macro": 0.9963600333750522,
+    "per_class": {
+      "apple_scab": {
+        "precision": 1.0,
+        "recall": 0.9789473684210527,
+        "f1": 0.9893617021276596,
+        "support": 95
+      },
+      "black_rot": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 94
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 47
+      },
+      "healthy": {
+        "precision": 0.9921875,
+        "recall": 1.0,
+        "f1": 0.996078431372549,
+        "support": 254
+      }
+    },
+    "confusion": [
+      [
+        93,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        94,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        47,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        254
+      ]
+    ],
+    "roc_auc_ovr": 0.9998307926616474,
+    "n": 490
+  },
+  {
+    "backbone": "densenet121",
+    "dataset": "plantdoc",
+    "accuracy": 0.47038327526132406,
+    "precision_macro": 0.5856785490931832,
+    "recall_macro": 0.4832254375772331,
+    "f1_macro": 0.4869404551944234,
+    "restricted_accuracy": 0.5435540069686411,
+    "restricted_precision_macro": 0.5914287496435701,
+    "restricted_recall_macro": 0.5554917710273766,
+    "restricted_f1_macro": 0.5373560920344547,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.5,
+        "recall": 0.8064516129032258,
+        "f1": 0.6172839506172839,
+        "support": 93
+      },
+      "black_rot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "cedar_apple_rust": {
+        "precision": 0.4878048780487805,
+        "recall": 0.18867924528301888,
+        "f1": 0.272108843537415,
+        "support": 106
+      },
+      "healthy": {
+        "precision": 0.7692307692307693,
+        "recall": 0.45454545454545453,
+        "f1": 0.5714285714285714,
+        "support": 88
+      }
+    },
+    "confusion": [
+      [
+        75,
+        5,
+        5,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        56,
+        26,
+        20,
+        4
+      ],
+      [
+        19,
+        13,
+        16,
+        40
+      ]
+    ],
+    "n": 287
+  },
+  {
+    "backbone": "densenet121",
+    "dataset": "fgvc8",
+    "accuracy": 0.2957142857142857,
+    "precision_macro": 0.5528259643433538,
+    "recall_macro": 0.2957142857142857,
+    "f1_macro": 0.19762789698240096,
+    "restricted_accuracy": 0.2957142857142857,
+    "restricted_precision_macro": 0.5528259643433538,
+    "restricted_recall_macro": 0.2957142857142857,
+    "restricted_f1_macro": 0.19762789698240096,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.2746478873239437,
+        "recall": 0.9471428571428572,
+        "f1": 0.42581888246628136,
+        "support": 700
+      },
+      "black_rot": {
+        "precision": 0.37184115523465705,
+        "recall": 0.14714285714285713,
+        "f1": 0.21084953940634593,
+        "support": 700
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 0.0014285714285714286,
+        "f1": 0.0028530670470756064,
+        "support": 700
+      },
+      "healthy": {
+        "precision": 0.5648148148148148,
+        "recall": 0.08714285714285715,
+        "f1": 0.15099009900990099,
+        "support": 700
+      }
+    },
+    "confusion": [
+      [
+        663,
+        4,
+        0,
+        33
+      ],
+      [
+        592,
+        103,
+        0,
+        5
+      ],
+      [
+        527,
+        163,
+        1,
+        9
+      ],
+      [
+        632,
+        7,
+        0,
+        61
+      ]
+    ],
+    "roc_auc_ovr": 0.6876579931972789,
+    "n": 2800
+  },
+  {
+    "backbone": "inception_v3",
+    "dataset": "pv_test",
+    "accuracy": 0.9938775510204082,
+    "precision_macro": 0.9922680412371134,
+    "recall_macro": 0.9937525901367592,
+    "f1_macro": 0.9929206273142914,
+    "restricted_accuracy": 0.9938775510204082,
+    "restricted_precision_macro": 0.9922680412371134,
+    "restricted_recall_macro": 0.9937525901367592,
+    "restricted_f1_macro": 0.9929206273142914,
+    "per_class": {
+      "apple_scab": {
+        "precision": 1.0,
+        "recall": 0.9789473684210527,
+        "f1": 0.9893617021276596,
+        "support": 95
+      },
+      "black_rot": {
+        "precision": 0.9690721649484536,
+        "recall": 1.0,
+        "f1": 0.9842931937172774,
+        "support": 94
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 47
+      },
+      "healthy": {
+        "precision": 1.0,
+        "recall": 0.9960629921259843,
+        "f1": 0.9980276134122288,
+        "support": 254
+      }
+    },
+    "confusion": [
+      [
+        93,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        94,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        47,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        253
+      ]
+    ],
+    "roc_auc_ovr": 1.0,
+    "n": 490
+  },
+  {
+    "backbone": "inception_v3",
+    "dataset": "plantdoc",
+    "accuracy": 0.49477351916376305,
+    "precision_macro": 0.6956275079562751,
+    "recall_macro": 0.5108979324591011,
+    "f1_macro": 0.5507645336995367,
+    "restricted_accuracy": 0.5749128919860628,
+    "restricted_precision_macro": 0.6484410500670663,
+    "restricted_recall_macro": 0.5899899789126812,
+    "restricted_f1_macro": 0.5684904299777798,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.5727272727272728,
+        "recall": 0.6774193548387096,
+        "f1": 0.6206896551724138,
+        "support": 93
+      },
+      "black_rot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "cedar_apple_rust": {
+        "precision": 0.7333333333333333,
+        "recall": 0.20754716981132076,
+        "f1": 0.32352941176470584,
+        "support": 106
+      },
+      "healthy": {
+        "precision": 0.7808219178082192,
+        "recall": 0.6477272727272727,
+        "f1": 0.7080745341614907,
+        "support": 88
+      }
+    },
+    "confusion": [
+      [
+        63,
+        16,
+        3,
+        11
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        31,
+        48,
+        22,
+        5
+      ],
+      [
+        16,
+        10,
+        5,
+        57
+      ]
+    ],
+    "n": 287
+  },
+  {
+    "backbone": "inception_v3",
+    "dataset": "fgvc8",
+    "accuracy": 0.33285714285714285,
+    "precision_macro": 0.43529820692852017,
+    "recall_macro": 0.33285714285714285,
+    "f1_macro": 0.2528789176922787,
+    "restricted_accuracy": 0.33285714285714285,
+    "restricted_precision_macro": 0.43529820692852017,
+    "restricted_recall_macro": 0.33285714285714285,
+    "restricted_f1_macro": 0.2528789176922787,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.31894362620619604,
+        "recall": 0.8971428571428571,
+        "f1": 0.4705882352941176,
+        "support": 700
+      },
+      "black_rot": {
+        "precision": 0.3271889400921659,
+        "recall": 0.30428571428571427,
+        "f1": 0.3153219837157661,
+        "support": 700
+      },
+      "cedar_apple_rust": {
+        "precision": 0.627906976744186,
+        "recall": 0.03857142857142857,
+        "f1": 0.07267833109017496,
+        "support": 700
+      },
+      "healthy": {
+        "precision": 0.46715328467153283,
+        "recall": 0.09142857142857143,
+        "f1": 0.15292712066905617,
+        "support": 700
+      }
+    },
+    "confusion": [
+      [
+        628,
+        29,
+        1,
+        42
+      ],
+      [
+        462,
+        213,
+        15,
+        10
+      ],
+      [
+        273,
+        379,
+        27,
+        21
+      ],
+      [
+        606,
+        30,
+        0,
+        64
+      ]
+    ],
+    "roc_auc_ovr": 0.6977785714285714,
+    "n": 2800
+  },
+  {
+    "backbone": "mobilenet_v2",
+    "dataset": "pv_test",
+    "accuracy": 0.9979591836734694,
+    "precision_macro": 0.9973684210526316,
+    "recall_macro": 0.9990157480314961,
+    "f1_macro": 0.9981841520303059,
+    "restricted_accuracy": 0.9979591836734694,
+    "restricted_precision_macro": 0.9973684210526316,
+    "restricted_recall_macro": 0.9990157480314961,
+    "restricted_f1_macro": 0.9981841520303059,
+    "per_class": {
+      "apple_scab": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 95
+      },
+      "black_rot": {
+        "precision": 0.9894736842105263,
+        "recall": 1.0,
+        "f1": 0.9947089947089947,
+        "support": 94
+      },
+      "cedar_apple_rust": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 47
+      },
+      "healthy": {
+        "precision": 1.0,
+        "recall": 0.9960629921259843,
+        "f1": 0.9980276134122288,
+        "support": 254
+      }
+    },
+    "confusion": [
+      [
+        95,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        94,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        47,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        253
+      ]
+    ],
+    "roc_auc_ovr": 1.0,
+    "n": 490
+  },
+  {
+    "backbone": "mobilenet_v2",
+    "dataset": "plantdoc",
+    "accuracy": 0.3797909407665505,
+    "precision_macro": 0.7712768296973961,
+    "recall_macro": 0.3905495920864149,
+    "f1_macro": 0.5022014478031281,
+    "restricted_accuracy": 0.7282229965156795,
+    "restricted_precision_macro": 0.7254705652949328,
+    "restricted_recall_macro": 0.7286006750401152,
+    "restricted_f1_macro": 0.7264180028362892,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.7551020408163265,
+        "recall": 0.3978494623655914,
+        "f1": 0.5211267605633803,
+        "support": 93
+      },
+      "black_rot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "cedar_apple_rust": {
+        "precision": 0.7931034482758621,
+        "recall": 0.2169811320754717,
+        "f1": 0.34074074074074073,
+        "support": 106
+      },
+      "healthy": {
+        "precision": 0.765625,
+        "recall": 0.5568181818181818,
+        "f1": 0.6447368421052632,
+        "support": 88
+      }
+    },
+    "confusion": [
+      [
+        37,
+        42,
+        6,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        71,
+        23,
+        7
+      ],
+      [
+        7,
+        32,
+        0,
+        49
+      ]
+    ],
+    "n": 287
+  },
+  {
+    "backbone": "mobilenet_v2",
+    "dataset": "fgvc8",
+    "accuracy": 0.38357142857142856,
+    "precision_macro": 0.4722392197222821,
+    "recall_macro": 0.38357142857142856,
+    "f1_macro": 0.31171788318481297,
+    "restricted_accuracy": 0.38357142857142856,
+    "restricted_precision_macro": 0.4722392197222821,
+    "restricted_recall_macro": 0.38357142857142856,
+    "restricted_f1_macro": 0.31171788318481297,
+    "per_class": {
+      "apple_scab": {
+        "precision": 0.40604026845637586,
+        "recall": 0.6914285714285714,
+        "f1": 0.5116279069767442,
+        "support": 700
+      },
+      "black_rot": {
+        "precision": 0.3323843416370107,
+        "recall": 0.6671428571428571,
+        "f1": 0.4437054631828979,
+        "support": 700
+      },
+      "cedar_apple_rust": {
+        "precision": 0.5277777777777778,
+        "recall": 0.027142857142857142,
+        "f1": 0.051630434782608696,
+        "support": 700
+      },
+      "healthy": {
+        "precision": 0.6227544910179641,
+        "recall": 0.14857142857142858,
+        "f1": 0.23990772779700117,
+        "support": 700
+      }
+    },
+    "confusion": [
+      [
+        484,
+        158,
+        3,
+        55
+      ],
+      [
+        214,
+        467,
+        14,
+        5
+      ],
+      [
+        99,
+        579,
+        19,
+        3
+      ],
+      [
+        395,
+        201,
+        0,
+        104
+      ]
+    ],
+    "roc_auc_ovr": 0.7169561224489795,
+    "n": 2800
+  }
+]
