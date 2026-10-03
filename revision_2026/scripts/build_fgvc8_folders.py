@@ -22,8 +22,8 @@ NTFS volume); falls back to a normal copy otherwise.
 
 Usage:
     python build_fgvc8_folders.py ^
-        --fgvc8-root "H:\\Master\\co work\\dataset real" ^
-        --out-root "H:\\Master\\co work\\SOIC major revision\\code soic\\data"
+        --fgvc8-root "<path-to>\\plant-pathology-2021-fgvc8" ^
+        --out-root "<project>\\code soic\\data"
 """
 import argparse
 import csv

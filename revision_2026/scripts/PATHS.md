@@ -17,7 +17,7 @@ about anything it couldn't find.
 
 ## Path cheat-sheet (after running the script)
 
-Assuming this folder is `H:\Master\co work\SOIC major revision\code soic`:
+Assuming this folder is `<project>\code soic` (for example `D:\work\SOIC\code soic`):
 
 | Section | Argument | Path |
 |---|---|---|

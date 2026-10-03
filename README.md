@@ -14,7 +14,15 @@ This repository holds the code, split files and results for the paper *Detection
 
   See [`revision_2026/README.md`](revision_2026/README.md).
 - **`appleleafdiseaseframework/`** holds the code, notebooks and results of the original submission.
-- **`PUSH_INSTRUCTIONS.md`** has notes for publishing the repository and archiving releases on Zenodo.
+- **`RELEASING.md`** explains how releases are archived on Zenodo.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+Install the CUDA build of PyTorch that matches your GPU from https://pytorch.org if you train the models.
 
 ## Key results (revision)
 
@@ -34,6 +42,10 @@ This repository holds the code, split files and results for the paper *Detection
 Every GitHub release is archived on Zenodo. The concept DOI [10.5281/zenodo.21336556](https://doi.org/10.5281/zenodo.21336556) always resolves to the latest version.
 
 Datasets and model weights are not included. PlantVillage, PlantDoc and Plant Pathology 2021 (FGVC8) are public; prepare them locally with the scripts provided.
+
+## License
+
+MIT; see [LICENSE](LICENSE).
 
 ## Topics
 

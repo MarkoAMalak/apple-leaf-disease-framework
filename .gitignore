@@ -1,0 +1,13 @@
+# Data, images and weights are not part of the repository
+data/
+datasets/
+*.zip
+*.pt
+*.pth
+*.onnx
+runs/
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
